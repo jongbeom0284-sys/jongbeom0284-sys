@@ -10,7 +10,7 @@
 | --- | --- |
 | [Deli-Way 배송 로봇](https://github.com/jongbeom0284-sys/Capstone-design-with-wego) | 3인 팀 캡스톤. LIMO 로봇의 주행 알고리즘·객체 탐지·제어 연결을 담당했습니다. 공개 저장소에는 LAB 기반 적응형 차선 인식과 ROS 2 노드가 있습니다. |
 | [AutoRace 2025](https://github.com/Jagidul-AutoRace/WeGo-AutoRace) | 4인 팀의 팀장으로 차선 인지와 미션별 Vision/LiDAR 모듈 통합을 진행했습니다. 팀이 **첨단분야 혁신융합대학사업단 협의회장상**을 받았습니다. |
-| 차량용 NPU 기반 ADAS | 팀 프로젝트에서 YOLOv8s·UFLD 인식 모델을 차량용 보드에 적용했습니다. NPU 미지원 연산을 분리하고 C 후처리로 차선 좌표를 복원해 제어 입력에 연결했습니다. |
+| [차량용 NPU 기반 ADAS](https://github.com/jongbeom0284-sys/Telechips-NPU-ADAS) | 텔레칩스 교육 팀 프로젝트에서 YOLOv8s·UFLD를 차량용 보드에 적용했습니다. C 후처리·TCP JSON 전송·Python 제어 연동과 VCP 주변장치 실습 코드를 공개했습니다. |
 
 ### 함께 해본 작업
 
