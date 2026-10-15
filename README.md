@@ -19,7 +19,7 @@
 - **[Docker·Ollama 실습](https://github.com/jongbeom0284-sys/Vehicle-Software-Engineering-Labs):** [YOLOv3를 Docker로 패키징](https://github.com/jongbeom0284-sys/myyolo_v3)하고 이미지 입출력·볼륨 마운트를 다뤘습니다. Ollama의 EXAONE·Qwen 채팅·번역·이미지 설명은 수업 예제 기반 실습 기록으로 연결했습니다.
 - **LG Aimers 8기:** EXAONE-4.0-1.2B에 GPTQ W4A16 양자화를 적용해 모델 파일 크기를 약 2.56 GB에서 971 MB로 줄였습니다.
 - **LG Aimers 7기:** 팀장으로 메뉴 수요예측 실험을 조율했습니다. 결측치·이상치와 날짜·메뉴 특성을 분석하고 XGBoost·LSTM 예측을 비교·앙상블하며 검증했습니다.
-- **영상 정합:** DLT·SVD로 Homography를 계산하고 Forward/Backward Warping을 구현해 보간 결과를 비교했습니다.
+- **[영상 정합·Warping](https://github.com/jongbeom0284-sys/Image-Stitching-Warping-Lab):** DLT·SVD와 역방향 매핑·Bilinear Interpolation을 직접 구현하고, 세 장의 사진을 정합해 Forward/Backward 방식의 빈 픽셀과 보간 결과를 비교했습니다. 코드와 당시 결과 이미지를 공개했습니다.
 
 **MORAI ROS 경진대회 팀 3위**, 주행 영상 Segmentation, KOBOT 논문 스터디 운영과 교육·연구 경험은 [프로젝트·활동 상세 기록](https://github.com/jongbeom0284-sys/jongbeom0284-sys/blob/main/EXPERIENCE.md)에 정리했습니다.
 

@@ -38,7 +38,7 @@ MORAI 시뮬레이터에서 카메라·LiDAR·차량 상태 데이터를 ROS Top
 
 ## 차량비전·자동차인공지능
 
-- **Image Stitching:** 대응점을 직접 선택하고 DLT·SVD로 Homography를 계산했습니다. Forward / Backward Warping과 Bilinear Interpolation의 결과를 비교했습니다.
+- **[Image Stitching](https://github.com/jongbeom0284-sys/Image-Stitching-Warping-Lab):** 대응점을 직접 선택하고 DLT·SVD, 역방향 매핑과 Bilinear Interpolation을 구현했습니다. Forward 반복문 구현과 OpenCV 기반 Backward 스티칭 결과를 비교했습니다. 직접 구현한 수학 함수와 최종 파이프라인의 OpenCV 사용 범위를 구분하고, 입력 사진·파노라마·빈 픽셀 확대 이미지를 함께 정리했습니다.
 - **카메라 입력 이해:** 셔터 속도·ISO를 바꾼 영상에서 밝기·노이즈·선명도의 변화를 살펴봤습니다.
 - **DETR 논문 분석·발표:** Transformer 기반 객체 검출 구조와 기존 검출 방식의 차이를 정리했습니다.
 - **주행 영상 2D Segmentation:** 데이터를 구성하고 PyTorch 기반 모델을 학습한 뒤 예측 결과를 시각화해 영상의 영역 구분 결과를 확인했습니다.
