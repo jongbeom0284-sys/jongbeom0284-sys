@@ -15,6 +15,7 @@
 ### 함께 해본 작업
 
 - **[MPC5604P 임베디드 제어 실습](https://github.com/jongbeom0284-sys/MPC5604P-Microcontroller-Labs):** CodeWarrior·FreeMASTER 환경에서 GPIO·ADC·SPI와 DC 모터 전류·속도 PI 제어를 실습했습니다. C 소스와 당시 측정 결과를 정리했습니다.
+- **[Docker·Ollama 실습](https://github.com/jongbeom0284-sys/Vehicle-Software-Engineering-Labs):** [YOLOv3를 Docker로 패키징](https://github.com/jongbeom0284-sys/myyolo_v3)하고 이미지 입출력·볼륨 마운트를 다뤘습니다. Ollama의 EXAONE·Qwen 채팅·번역·이미지 설명은 수업 예제 기반 실습 기록으로 연결했습니다.
 - **LG Aimers 8기:** EXAONE-4.0-1.2B에 GPTQ W4A16 양자화를 적용해 모델 파일 크기를 약 2.56 GB에서 971 MB로 줄였습니다.
 - **영상 정합:** DLT·SVD로 Homography를 계산하고 Forward/Backward Warping을 구현해 보간 결과를 비교했습니다.
 
