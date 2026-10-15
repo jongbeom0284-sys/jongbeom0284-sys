@@ -1,32 +1,28 @@
-# Hi, I'm Jongbeom 👋
+# Jongbeom Youn
 
-> Building practical autonomous-driving systems with robotics and computer vision.
+**Autonomous Driving · Robotics · Computer Vision**
 
-I am a Kookmin University student interested in **autonomous driving**, **robotics**, **computer vision**, and **machine learning**. I enjoy taking an idea from perception to control and turning it into a working system.
+I am a Kookmin University student interested in connecting visual perception with working robotic systems. I work with ROS 2 and Python, and explore detection, tracking, OCR, and autonomous driving through public projects and open-source research.
 
-## Focus
+## Selected projects
 
-- ROS 2-based robotics and autonomous-driving applications
-- Computer vision and object detection
-- Machine-learning experiments and data analysis
-- Reproducible development environments with Docker
+| Project | What you can see |
+| --- | --- |
+| [ROS 2 LIMO capstone](https://github.com/jongbeom0284-sys/Capstone-design-with-wego) | Public ROS 2 code for camera-based lane perception, robot control, launch files, and configuration. |
+| [WeGo AutoRace](https://github.com/Jagidul-AutoRace/WeGo-AutoRace) | Team repository for an autonomous-driving robotics project. |
+| [LG Aimers](https://github.com/LG-AImers-team/LG-AImers) | Team repository for machine-learning and data-analysis work. |
 
-## Featured projects
+## Research interests & code references
 
-| Project | What it demonstrates | Core technologies |
-| --- | --- | --- |
-| [Capstone Design with WeGo](https://github.com/jongbeom0284-sys/Capstone-design-with-wego) | ROS 2 autonomous-driving capstone work | Python, ROS 2, robotics |
-| [WeGo AutoRace](https://github.com/Jagidul-AutoRace/WeGo-AutoRace) | Team autonomous-driving project | Python, computer vision |
-| [LG Aimers](https://github.com/LG-AImers-team/LG-AImers) | Machine-learning and data-analysis project | Jupyter Notebook, ML |
+These forks are **references I keep for study**. Credit for the original work belongs to their respective authors.
 
-## Selected skills
+- **Detection:** [DETR](https://github.com/jongbeom0284-sys/detr) · [RT-DETR](https://github.com/jongbeom0284-sys/RT-DETR) · [Ultralytics](https://github.com/jongbeom0284-sys/ultralytics)
+- **Tracking:** [ByteTrack](https://github.com/jongbeom0284-sys/ByteTrack)
+- **OCR:** [PaddleOCR](https://github.com/jongbeom0284-sys/PaddleOCR)
+- **Autonomous driving:** [End-to-end Autonomous Driving](https://github.com/jongbeom0284-sys/End-to-end-Autonomous-Driving) · [Alpamayo](https://github.com/jongbeom0284-sys/alpamayo)
 
-`Python` · `ROS 2` · `Computer Vision` · `Machine Learning` · `Docker` · `Git`
+## Tools I use
 
-## Currently building
+`Python` · `ROS 2` · `OpenCV` · `Docker` · `Jupyter Notebook`
 
-Improving autonomous-driving systems for real-world robotic environments.
-
----
-
-Feel free to explore the featured repositories above.
+Current internship work is private, so this profile focuses on work and interests I can share publicly.
