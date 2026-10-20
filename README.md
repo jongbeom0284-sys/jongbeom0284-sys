@@ -8,7 +8,7 @@
 
 | 프로젝트 | 맡은 일과 결과 |
 | --- | --- |
-| [2026 국민대 자율주행 경진대회](https://github.com/jongbeom0284-sys/jongbeom0284-sys/blob/main/EXPERIENCE.md) | LiDAR 인지·시스템 설계 및 통합을 맡았습니다. 센서 좌표 오프셋과 미션 전환 조건을 조정하고 실차 시험을 반복했습니다. 본선 **95.83초**, 주행 기록 기준 두 번째로 빠른 기록을 냈습니다. |
+| [2026 국민대 자율주행 경진대회](https://github.com/jongbeom0284-sys/Xytron_2026) | LiDAR 인지·시스템 설계 및 통합을 맡았습니다. 센서 좌표 오프셋과 미션 전환 조건을 조정하고 실차 시험을 반복했습니다. 본선 **95.83초**, 주행 기록 기준 두 번째로 빠른 기록을 냈습니다. |
 | [Deli-Way 배송 로봇](https://github.com/jongbeom0284-sys/Capstone-design-with-wego) | 3인 팀에서 주행·객체 탐지·시스템 통합을 맡아 ROS 2 Nav2·YOLOv8n과 수령 확인·미수령 재방문 흐름을 연결했습니다. 공개 코드는 LAB 기반 차선 인식 노드 중심입니다. |
 | [AutoRace 2025](https://github.com/Jagidul-AutoRace/WeGo-AutoRace) | 4인 팀의 팀장으로 차선 인지와 미션별 Vision/LiDAR 모듈 통합을 진행했습니다. 팀이 **첨단분야 혁신융합대학사업단 협의회장상**을 받았습니다. |
 | [차량용 NPU 기반 ADAS](https://github.com/jongbeom0284-sys/Telechips-NPU-ADAS) | 텔레칩스 교육 팀 프로젝트에서 YOLOv8s·UFLD를 차량용 보드에 적용했습니다. C 후처리·TCP JSON 전송·Python 제어 연동과 VCP 주변장치 실습 코드를 공개했습니다. |
@@ -23,6 +23,13 @@
 
 **MORAI ROS 경진대회 팀 3위**, 주행 영상 Segmentation, KOBOT 논문 스터디 운영과 교육·연구 경험은 [프로젝트·활동 상세 기록](https://github.com/jongbeom0284-sys/jongbeom0284-sys/blob/main/EXPERIENCE.md)에 정리했습니다.
 
+## 인턴십 프로젝트 · 코드 비공개
+
+- **다중 카메라 차량 추적·ReID**
+- **CCTV 안전 영상 분석**
+
+업무 프로젝트는 수행 경험을 소개하기 위해 제목만 기재했습니다. 회사 코드·현장 영상·모델·내부 문서는 공개하지 않습니다.
+
 ## 관심 있는 논문과 공개 구현
 
 아래 포크는 **읽고 탐색하기 위한 참고 자료**입니다. 원 프로젝트의 성과를 제 작업으로 소개하지 않습니다.
@@ -36,4 +43,4 @@
 
 `Python` · `PyTorch` · `ROS 2` · `OpenCV` · `Linux` · `Docker` · `C`
 
-현재 인턴 업무와 비공개 자료는 이 프로필에 올리지 않았습니다.
+인턴십 프로젝트의 제목 외에 회사 업무 자료는 이 프로필과 공개 저장소에 올리지 않았습니다.
